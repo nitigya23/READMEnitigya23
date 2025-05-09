@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: **Data scraping**
 - 🌱 I’m currently learning: **Pytho**
 - 💬 Ask me about: **Data Analysis**
-- 📫 Reach me at: [your.email@gmail.com](mailto:nitigyatalwar@gmail.com)
+- 📫 Reach me at: (mailto:nitigyatalwar@gmail.com)
 
 
 <img align="right" alt="GIF" src="![Black Magic Artist GIF by MusuSart (1)](https://github.com/user-attachments/assets/86c313d4-9d2c-4e03-a804-033b730aaf6a)

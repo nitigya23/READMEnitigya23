@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nitigya Talwar</h1>
-<h3 align="center"><h3>A passionate learner!</h3>
+<h3 align="center" A passionate learner!</h3>
 
 ---
 

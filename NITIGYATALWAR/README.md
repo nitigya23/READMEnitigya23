@@ -1,12 +1,33 @@
-# READMEnitigya23
-<h1 align="center">Hi there! I'm NITIGYA TALWAR</h1>
-<h3 align="center">ARTFICIAL INTELLIGENCE| MACHINE LEARNING </h3>
+<h1 align="center">Hi there 👋, I'm Nitigya Talwar</h1>
+<h3 align="center">A passionate learner!/h3>
 
-- 🔭 I’m currently working on: **Data scraping**
-- 🌱 I’m currently learning: **Pytho**
-- 💬 Ask me about: **Data Analysis**
-- 📫 Reach me at: (mailto:nitigyatalwar@gmail.com)
+---
+
+### 🧠 About Me:
+
+- 💻 I love writing code in **Python** 
+- 🛠️ Currently working on: **Python | SQL | Data Visualization | Data Analysis**
+- 📚 Learning: **Machine Learning**
+- 💬 Ask me about: **Python**, **cpp** or anything related to **Data Analytics**
+- 📧 Reach me at: [nitigyatalwar@gmail.com](mailto:nitigyatalwar@gmail.com)
+- 🌐 Active on: [GitHub](https://github.com/nitigya23)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitigya23&show_icons=true&theme=radical)
+
+---
+
+### 🎬 Fun Coding Vibes
+
+<img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" width="400" alt="Coding GIF" />
+
+---
 
 
-<img align="right" alt="GIF" src="![Black Magic Artist GIF by MusuSart (1)](https://github.com/user-attachments/assets/86c313d4-9d2c-4e03-a804-033b730aaf6a)
-" width="300"/>
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=nitigya23&color=blue)
+

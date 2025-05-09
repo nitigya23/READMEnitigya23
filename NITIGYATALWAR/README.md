@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nitigya Talwar</h1>
-<h3 align="center" A passionate learner!</h3>
+<h3 align="center">  A passionate learner!</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - 💬 Ask me about: **Python**, **cpp** or anything related to **Data Analytics**
 - 📧 Reach me at: [nitigyatalwar@gmail.com](mailto:nitigyatalwar@gmail.com)
 - 🌐 Active on: [GitHub](https://github.com/nitigya23) | [LinkedIn](www.linkedin.com/in/nitigya-talwar-69050328)
-- ### 🎬 Fun Coding Vibes
+- ### CODING seems like
 
 <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" width="400" alt="Coding GIF" />
 
